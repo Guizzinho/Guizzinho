@@ -1,5 +1,7 @@
 ### Olá, me chamo Guilherme 👋
 
+#### Estou nesse mundo da programação a pouco tempo, mas gosto bastante de descobrir e aprender sobre novas tecnologias. Comecei com Front-End e estou aperfeiçoando minhas habilidades na área.
+
 ### Linguagens que costumo utilizar: 
 
 <div style="display: inline_block">
@@ -9,6 +11,7 @@
     <img align="center" alt="Html5" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> 
 </div>
 
-#### Atualmente estou estudando Ja
+#### Atualmente estou estudando JavaScript mais a fundo.
+
 
 
